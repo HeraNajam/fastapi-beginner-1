@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+env/
+
+# Environment variables
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS or IDE files
+.DS_Store
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Python cache
+*.pyo
+*.pyd
+
+# Docker
+*.tar
